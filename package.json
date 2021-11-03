@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "validator": "^10.2.0",
+    "validator": "^13.7.0",
     "vue": "^2.5.13",
     "vue-router": "^3.0.1"
   },
